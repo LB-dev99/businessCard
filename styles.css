@@ -19,9 +19,9 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #D6D4A0;
+    background: rgb(150, 252, 232);
     color: #2b2839;
-    border-bottom: 20px solid #d8cefe;
+    border-bottom: 20px solid rgb(0, 145, 255);
         
     /*
     Challenge:
